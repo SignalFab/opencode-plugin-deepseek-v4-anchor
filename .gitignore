@@ -1,0 +1,14 @@
+node_modules/
+*.log
+dsh-anchor-debug.log
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.tsbuildinfo
+.cache/
+.env
+.env.*

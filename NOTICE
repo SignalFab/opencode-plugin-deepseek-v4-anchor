@@ -1,0 +1,5 @@
+This package is an OpenCode port of xiaobright/dsh-anchored-standard.
+
+The persona text and the structure derived from preset/agent.cordis.yml
+originate from DeepSeek Harness Standard/Minimal, licensed under the MIT
+License.
